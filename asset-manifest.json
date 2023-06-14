@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/productosBokadillos/static/css/main.df755340.css",
+    "main.js": "/productosBokadillos/static/js/main.db64d007.js",
+    "static/media/logoBoka.png": "/productosBokadillos/static/media/logoBoka.add5de91ba7180e64d98.png",
+    "static/media/tequeMonton.png": "/productosBokadillos/static/media/tequeMonton.26889a2f6fda0cbfe6f1.png",
+    "static/media/tequeSalsa.PNG": "/productosBokadillos/static/media/tequeSalsa.7e50364d356756ad639c.PNG",
+    "static/media/tequeBlack.PNG": "/productosBokadillos/static/media/tequeBlack.012b5b03dd7200a509e5.PNG",
+    "static/media/tequeMayor.png": "/productosBokadillos/static/media/tequeMayor.25c8b4c845a4293e634e.png",
+    "static/media/harinaArepa.png": "/productosBokadillos/static/media/harinaArepa.2d354bd5c8ff98c4525e.png",
+    "static/media/coca.png": "/productosBokadillos/static/media/coca.feae3ddb26e661c9bf8d.png",
+    "static/media/malta.png": "/productosBokadillos/static/media/malta.d0b509dc6b1a6f6a8fae.png",
+    "static/media/quesollaner.png": "/productosBokadillos/static/media/quesollaner.b74f3aee3242f5bb9eee.png",
+    "static/media/pared.png": "/productosBokadillos/static/media/pared.c93c417bc45a630481ae.png",
+    "index.html": "/productosBokadillos/index.html",
+    "main.df755340.css.map": "/productosBokadillos/static/css/main.df755340.css.map",
+    "main.db64d007.js.map": "/productosBokadillos/static/js/main.db64d007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df755340.css",
+    "static/js/main.db64d007.js"
+  ]
+}
