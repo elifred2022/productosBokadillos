@@ -5,6 +5,8 @@ import Salsa from "../../imagenes/tequeSalsa.PNG";
 import Monton from "../../imagenes/tequeMonton.png";
 
 import Queso from "../../imagenes/quesollaner.png";
+import Quesorayado from "../../imagenes/quesoLlaneroRayado.png";
+import PastelitosPack from "../../imagenes/pastelitosPack.png";
 import HarinaArepa from "../../imagenes/harinaArepa.png";
 import Coca from "../../imagenes/coca.png";
 import Malta from "../../imagenes/malta.png";
@@ -77,6 +79,32 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Queso llanero semi duro</h1>
           <p>Alimentos</p>
           <p className="price">$ 2030 x kg</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Quesorayado} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Queso llanero rayado</h1>
+          <p>Alimentos</p>
+          <p className="price">$ 200 x 100 gramos</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={PastelitosPack} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Pastelitos de queso pack de 3 unds</h1>
+          <p>Congelados</p>
+          <p className="price">$ 250</p>
         </div>
       </div>
 
