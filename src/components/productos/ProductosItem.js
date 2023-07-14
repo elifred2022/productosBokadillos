@@ -37,9 +37,22 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           </div>
         </>
         <div className="producto__footer">
-          <h1>Tequeños al menor</h1>
+          <h1>Tequeños al detal</h1>
           <p>Congelados</p>
           <p className="price">$ 850</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={PastelitosPack} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Pastelitos de queso pack de 2 unds</h1>
+          <p>Congelados</p>
+          <p className="price">$ 400</p>
         </div>
       </div>
 
@@ -92,19 +105,6 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Queso llanero rayado</h1>
           <p>Alimentos</p>
           <p className="price">$ 200 x 100 gramos</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={PastelitosPack} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Pastelitos de queso pack de 2 unds</h1>
-          <p>Congelados</p>
-          <p className="price">$ 300</p>
         </div>
       </div>
 
