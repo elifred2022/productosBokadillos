@@ -10,6 +10,7 @@ import HarinaArepa from "../../imagenes/harinaArepa.png";
 import Coca from "../../imagenes/coca.png";
 import Malta from "../../imagenes/malta.png";
 import Pastel from "../../imagenes/pastelCumple.png";
+import Chicha from "../../imagenes/chicha.png";
 //import { Link } from "react-router-dom";
 
 import { useState, useEffect } from "react";
@@ -79,6 +80,19 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Doce (12) tequeños fritos mas salsa de ajo</h1>
           <p>Fritos</p>
           <p className="price">$ 1800</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Chicha} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Chicha</h1>
+          <p>Bebidas</p>
+          <p className="price">$ 350 vaso 300 cc</p>
         </div>
       </div>
 
