@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/productosBokadillos/static/css/main.6cd7fcdd.css",
-    "main.js": "/productosBokadillos/static/js/main.f8a63c35.js",
+    "main.js": "/productosBokadillos/static/js/main.2b2aa48a.js",
     "static/media/logoBoka.png": "/productosBokadillos/static/media/logoBoka.add5de91ba7180e64d98.png",
     "static/media/tequeMonton.png": "/productosBokadillos/static/media/tequeMonton.26889a2f6fda0cbfe6f1.png",
     "static/media/tequeSalsa.PNG": "/productosBokadillos/static/media/tequeSalsa.7e50364d356756ad639c.PNG",
     "static/media/tequeBlack.PNG": "/productosBokadillos/static/media/tequeBlack.012b5b03dd7200a509e5.PNG",
     "static/media/quesoLlaneroRayado.png": "/productosBokadillos/static/media/quesoLlaneroRayado.cec12aa45d510706bcc0.png",
+    "static/media/chicha.png": "/productosBokadillos/static/media/chicha.de17965ebf4de393663c.png",
     "static/media/pastelCumple.png": "/productosBokadillos/static/media/pastelCumple.c6af1e1643b406068b9b.png",
     "static/media/tequeMayor.png": "/productosBokadillos/static/media/tequeMayor.25c8b4c845a4293e634e.png",
     "static/media/harinaArepa.png": "/productosBokadillos/static/media/harinaArepa.2d354bd5c8ff98c4525e.png",
@@ -17,10 +18,10 @@
     "static/media/pared.png": "/productosBokadillos/static/media/pared.c93c417bc45a630481ae.png",
     "index.html": "/productosBokadillos/index.html",
     "main.6cd7fcdd.css.map": "/productosBokadillos/static/css/main.6cd7fcdd.css.map",
-    "main.f8a63c35.js.map": "/productosBokadillos/static/js/main.f8a63c35.js.map"
+    "main.2b2aa48a.js.map": "/productosBokadillos/static/js/main.2b2aa48a.js.map"
   },
   "entrypoints": [
     "static/css/main.6cd7fcdd.css",
-    "static/js/main.f8a63c35.js"
+    "static/js/main.2b2aa48a.js"
   ]
 }
