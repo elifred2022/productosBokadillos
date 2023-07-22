@@ -11,6 +11,7 @@ import Coca from "../../imagenes/coca.png";
 import Malta from "../../imagenes/malta.png";
 import Pastel from "../../imagenes/pastelCumple.png";
 import Chicha from "../../imagenes/chicha.png";
+import Rekolita from "../../imagenes/rekolita.png";
 //import { Link } from "react-router-dom";
 
 import { useState, useEffect } from "react";
@@ -54,6 +55,32 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Pastelitos de queso pack de 2 unds</h1>
           <p>Congelados</p>
           <p className="price">$ 400</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={PastelitosPack} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Pastelitos de carne pack de 2 unds</h1>
+          <p>Congelados</p>
+          <p className="price">$ 500</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={PastelitosPack} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Pastelitos de jamon y queso pack de 2 unds</h1>
+          <p>Congelados</p>
+          <p className="price">$ 500</p>
         </div>
       </div>
 
@@ -131,7 +158,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Harina de maiz para arepas Morixe 1 kg</h1>
           <p>Alimentos</p>
-          <p className="price">$ 820</p>
+          <p className="price">$ 920</p>
         </div>
       </div>
 
@@ -145,6 +172,19 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Malta lata</h1>
           <p>Bebidas</p>
           <p className="price">$ 460</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Rekolita} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Rekolita</h1>
+          <p>Bebidas</p>
+          <p className="price">$ 400</p>
         </div>
       </div>
 
