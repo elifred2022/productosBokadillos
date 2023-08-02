@@ -11,6 +11,7 @@ import Coca from "../../imagenes/coca.png";
 import Malta from "../../imagenes/malta.png";
 import Pastel from "../../imagenes/pastelCumple.png";
 import Chicha from "../../imagenes/chicha.png";
+import ChichaLt from "../../imagenes/chichaLitro.png";
 import Rekolita from "../../imagenes/rekolita.png";
 //import { Link } from "react-router-dom";
 
@@ -120,6 +121,19 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Cincuenta (50) tequeños fritos mas (4) salsa de ajo</h1>
           <p>Fritos</p>
           <p className="price">$ 7920</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={ChichaLt} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Chicha envase 1 litro con canela y leche condensada</h1>
+          <p>envio sin cargo zonas aledañas San Justo y Ramos Mejia</p>
+          <p className="price">$ 2000 tapa p/llevar</p>
         </div>
       </div>
 
