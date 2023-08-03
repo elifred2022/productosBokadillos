@@ -133,7 +133,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Chicha envase 1 litro con canela y leche condensada</h1>
           <p>envio sin cargo zonas aledañas San Justo y Ramos Mejia</p>
-          <p className="price">$ 2000 tapa p/llevar</p>
+          <p className="price">$ 1800 tapa p/llevar</p>
         </div>
       </div>
 
