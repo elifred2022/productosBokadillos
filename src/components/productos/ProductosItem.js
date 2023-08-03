@@ -107,7 +107,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Doce (12) tequeños fritos mas salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 1980</p>
+          <p className="price">$ 1900</p>
         </div>
       </div>
 
@@ -120,7 +120,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Cincuenta (50) tequeños fritos mas (4) salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 7920</p>
+          <p className="price">$ 7900</p>
         </div>
       </div>
 
