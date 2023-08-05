@@ -42,7 +42,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños al detal</h1>
           <p>Congelados</p>
-          <p className="price">$ 950</p>
+          <p className="price">$ 1000</p>
         </div>
       </div>
 
