@@ -161,7 +161,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Queso llanero semi duro</h1>
           <p>Alimentos</p>
-          <p className="price">$ 2230 x kg</p>
+          <p className="price">$ 2450 x kg</p>
         </div>
       </div>
 
