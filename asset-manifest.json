@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/productosBokadillos/static/css/main.6cd7fcdd.css",
-    "main.js": "/productosBokadillos/static/js/main.1ed5662f.js",
+    "main.js": "/productosBokadillos/static/js/main.bfe5c0d6.js",
     "static/media/logoBoka.png": "/productosBokadillos/static/media/logoBoka.add5de91ba7180e64d98.png",
     "static/media/tequeMonton.png": "/productosBokadillos/static/media/tequeMonton.26889a2f6fda0cbfe6f1.png",
     "static/media/tequeSalsa.PNG": "/productosBokadillos/static/media/tequeSalsa.7e50364d356756ad639c.PNG",
@@ -20,10 +20,10 @@
     "static/media/pared.png": "/productosBokadillos/static/media/pared.c93c417bc45a630481ae.png",
     "index.html": "/productosBokadillos/index.html",
     "main.6cd7fcdd.css.map": "/productosBokadillos/static/css/main.6cd7fcdd.css.map",
-    "main.1ed5662f.js.map": "/productosBokadillos/static/js/main.1ed5662f.js.map"
+    "main.bfe5c0d6.js.map": "/productosBokadillos/static/js/main.bfe5c0d6.js.map"
   },
   "entrypoints": [
     "static/css/main.6cd7fcdd.css",
-    "static/js/main.1ed5662f.js"
+    "static/js/main.bfe5c0d6.js"
   ]
 }
