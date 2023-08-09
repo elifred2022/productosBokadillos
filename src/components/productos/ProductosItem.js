@@ -49,6 +49,58 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
       <div className="producto">
         <>
           <div className="producto_img">
+            <img src={Salsa} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Cuatro (4) tequeños fritos mas salsa de ajo</h1>
+          <p>Fritos</p>
+          <p className="price">$ 700</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Salsa} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Seis (6) tequeños fritos mas salsa de ajo</h1>
+          <p>Fritos</p>
+          <p className="price">$ 1000</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Monton} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Doce (12) tequeños fritos mas salsa de ajo</h1>
+          <p>Fritos</p>
+          <p className="price">$ 1900</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Monton} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Cincuenta (50) tequeños fritos mas (4) salsa de ajo</h1>
+          <p>Fritos</p>
+          <p className="price">$ 7500</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
             <img src={PastelitosPack} alt={title} />
           </div>
         </>
@@ -82,45 +134,6 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Pastelitos de jamon y queso pack de 2 unds</h1>
           <p>Congelados</p>
           <p className="price">$ 500</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={Salsa} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Seis (6) tequeños fritos mas salsa de ajo</h1>
-          <p>Fritos</p>
-          <p className="price">$ 1100</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={Monton} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Doce (12) tequeños fritos mas salsa de ajo</h1>
-          <p>Fritos</p>
-          <p className="price">$ 1900</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={Monton} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Cincuenta (50) tequeños fritos mas (4) salsa de ajo</h1>
-          <p>Fritos</p>
-          <p className="price">$ 7900</p>
         </div>
       </div>
 
