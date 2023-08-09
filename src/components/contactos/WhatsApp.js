@@ -7,7 +7,7 @@ export const WhatsAppButton = () => {
     <div>
       <a
         href="https://wa.me/+5491127003907?text=Hola buen día para todos,  
-        recuerda que antendemos en nuestro local AV ARIETA 2688 LOCAL 9 SAN JUSTO De 13 a 19hrs.
+        recuerda que atendemos en nuestro local AV ARIETA 2688 LOCAL 9 SAN JUSTO De 13 a 19hrs.
                 
         Tenemos las zonas de deliverys, zona oeste; Ramos Mejia, San Justo, Haedo, Moron y Castelar.
 
