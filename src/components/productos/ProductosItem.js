@@ -13,6 +13,7 @@ import Pastel from "../../imagenes/pastelCumple.png";
 import Chicha from "../../imagenes/chicha.png";
 import ChichaLt from "../../imagenes/chichaLitro.png";
 import Rekolita from "../../imagenes/rekolita.png";
+import Golfeao from "../../imagenes/golfeao.png";
 //import { Link } from "react-router-dom";
 
 import { useState, useEffect } from "react";
@@ -101,6 +102,19 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
       <div className="producto">
         <>
           <div className="producto_img">
+            <img src={Golfeao} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Golfao</h1>
+          <p>Postre</p>
+          <p className="price">$ 450</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
             <img src={PastelitosPack} alt={title} />
           </div>
         </>
@@ -146,7 +160,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Chicha envase 1 litro con canela y leche condensada</h1>
           <p>envio sin cargo zonas aledañas San Justo y Ramos Mejia</p>
-          <p className="price">$ 1800 tapa p/llevar</p>
+          <p className="price">$ 1500 tapa p/llevar</p>
         </div>
       </div>
 
