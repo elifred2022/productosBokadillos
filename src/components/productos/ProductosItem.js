@@ -4,7 +4,7 @@ import Perco from "../../imagenes/tequeMayor.png";
 import Salsa from "../../imagenes/tequeSalsa.PNG";
 import Monton from "../../imagenes/tequeMonton.png";
 import Queso from "../../imagenes/quesollaner.png";
-import Quesorayado from "../../imagenes/quesoLlaneroRayado.png";
+import Maple from "../../imagenes/maple.png";
 import PastelitosPack from "../../imagenes/pastelitosPacks.png";
 import HarinaArepa from "../../imagenes/harinaArepa.png";
 import Coca from "../../imagenes/coca.png";
@@ -195,13 +195,13 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
       <div className="producto">
         <>
           <div className="producto_img">
-            <img src={Quesorayado} alt={title} />
+            <img src={Maple} alt={title} />
           </div>
         </>
         <div className="producto__footer">
-          <h1>Queso llanero rayado</h1>
+          <h1>Maple huevo nro 1 (30 unds)</h1>
           <p>Alimentos</p>
-          <p className="price">$ 200 x 100 gramos</p>
+          <p className="price">$ 1950</p>
         </div>
       </div>
 
