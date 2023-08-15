@@ -14,6 +14,7 @@ import Chicha from "../../imagenes/chicha.png";
 import ChichaLt from "../../imagenes/chichaLitro.png";
 import Rekolita from "../../imagenes/rekolita.png";
 import Golfeao from "../../imagenes/golfeao.png";
+import Tequechito from "../../imagenes/tequechitos.png";
 //import { Link } from "react-router-dom";
 
 import { useState, useEffect } from "react";
@@ -96,6 +97,21 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Cincuenta (50) tequeños fritos mas (4) salsa de ajo</h1>
           <p>Fritos</p>
           <p className="price">$ 7500</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Tequechito} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Cinco (5) tequeños queso y panceta fritos mas salsa de ajo</h1>
+          <p className="price">$ 1400</p>
+          <h1>Diez (10) tequeños queso y panceta fritos mas salsa de ajo</h1>
+          <p className="price">$ 2700</p>
+          <p>Fritos</p>
         </div>
       </div>
 
