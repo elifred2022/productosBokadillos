@@ -31,7 +31,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños al Mayor a partir de 15 docenas</h1>
           <p>Congelados</p>
-          <p className="price">$ 870</p>
+          <p className="price">$ 1000</p>
         </div>
       </div>
 
@@ -44,7 +44,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños al detal</h1>
           <p>Congelados</p>
-          <p className="price">$ 1000</p>
+          <p className="price">$ 1200</p>
         </div>
       </div>
 
@@ -176,7 +176,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Chicha envase 1 litro con canela y leche condensada</h1>
           <p>envio sin cargo zonas aledañas San Justo y Ramos Mejia</p>
-          <p className="price">$ 1500 tapa p/llevar</p>
+          <p className="price">$ 1600 tapa p/llevar</p>
         </div>
       </div>
 
@@ -189,9 +189,9 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Chicha</h1>
           <p>Bebidas</p>
-          <p className="price">$ 400 vaso 300 cc</p>
-          <p className="price">$ 450 vaso 330 cc</p>
-          <p className="price">$ 500 vaso 300 cc con tapa p/llevar</p>
+          <p className="price">$ 450 vaso 300 cc</p>
+          <p className="price">$ 500 vaso 330 cc</p>
+          <p className="price">$ 550 vaso 300 cc con tapa p/llevar</p>
         </div>
       </div>
 
@@ -230,7 +230,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Harina de maiz para arepas Morixe 1 kg</h1>
           <p>Alimentos</p>
-          <p className="price">$ 920</p>
+          <p className="price">$ 950</p>
         </div>
       </div>
 
@@ -243,7 +243,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Malta lata</h1>
           <p>Bebidas</p>
-          <p className="price">$ 460</p>
+          <p className="price">$ 500</p>
         </div>
       </div>
 
@@ -256,7 +256,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Rekolita</h1>
           <p>Bebidas</p>
-          <p className="price">$ 400</p>
+          <p className="price">$ 450</p>
         </div>
       </div>
 
@@ -269,7 +269,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Cocacola sabor original 354 ml</h1>
           <p>Bebidas</p>
-          <p className="price">$ 350</p>
+          <p className="price">$ 400</p>
         </div>
       </div>
 
