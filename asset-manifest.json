@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/productosBokadillos/static/css/main.6cd7fcdd.css",
-    "main.js": "/productosBokadillos/static/js/main.e00c4c2b.js",
+    "main.js": "/productosBokadillos/static/js/main.382e57ac.js",
     "static/media/logoBoka.png": "/productosBokadillos/static/media/logoBoka.add5de91ba7180e64d98.png",
     "static/media/tequeMonton.png": "/productosBokadillos/static/media/tequeMonton.26889a2f6fda0cbfe6f1.png",
     "static/media/tequeSalsa.PNG": "/productosBokadillos/static/media/tequeSalsa.7e50364d356756ad639c.PNG",
     "static/media/tequeBlack.PNG": "/productosBokadillos/static/media/tequeBlack.012b5b03dd7200a509e5.PNG",
+    "static/media/tequechitos.png": "/productosBokadillos/static/media/tequechitos.fe0a784f11d9ee813ee3.png",
     "static/media/maple.png": "/productosBokadillos/static/media/maple.24115faf32d354a6f3c4.png",
     "static/media/chichaLitro.png": "/productosBokadillos/static/media/chichaLitro.64f6998207e8959045c9.png",
     "static/media/rekolita.png": "/productosBokadillos/static/media/rekolita.891641f34e5ea8cb0b08.png",
@@ -21,10 +22,10 @@
     "static/media/pared.png": "/productosBokadillos/static/media/pared.c93c417bc45a630481ae.png",
     "index.html": "/productosBokadillos/index.html",
     "main.6cd7fcdd.css.map": "/productosBokadillos/static/css/main.6cd7fcdd.css.map",
-    "main.e00c4c2b.js.map": "/productosBokadillos/static/js/main.e00c4c2b.js.map"
+    "main.382e57ac.js.map": "/productosBokadillos/static/js/main.382e57ac.js.map"
   },
   "entrypoints": [
     "static/css/main.6cd7fcdd.css",
-    "static/js/main.e00c4c2b.js"
+    "static/js/main.382e57ac.js"
   ]
 }
