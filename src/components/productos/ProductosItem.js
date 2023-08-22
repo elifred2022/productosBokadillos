@@ -204,7 +204,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Queso llanero semi duro</h1>
           <p>Alimentos</p>
-          <p className="price">$ 2450 x kg</p>
+          <p className="price">$ 2730 x kg</p>
         </div>
       </div>
 
@@ -217,7 +217,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Maple huevo nro 1 (30 unds)</h1>
           <p>Alimentos</p>
-          <p className="price">$ 1950</p>
+          <p className="price">$ 2500</p>
         </div>
       </div>
 
@@ -230,7 +230,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Harina de maiz para arepas Morixe 1 kg</h1>
           <p>Alimentos</p>
-          <p className="price">$ 950</p>
+          <p className="price">$ 1100</p>
         </div>
       </div>
 
