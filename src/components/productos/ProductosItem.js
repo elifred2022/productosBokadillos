@@ -29,9 +29,9 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           </div>
         </>
         <div className="producto__footer">
-          <h1>Tequeños al Mayor a partir de 15 docenas</h1>
+          <h1>Tequeños de queso al Mayor a partir de 15 docenas</h1>
           <p>Congelados</p>
-          <p className="price">$ 1000</p>
+          <p className="price">$ 1200</p>
         </div>
       </div>
 
@@ -42,8 +42,60 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           </div>
         </>
         <div className="producto__footer">
-          <h1>Tequeños al detal</h1>
+          <h1>Tequeños de queso al detal</h1>
           <p>Congelados</p>
+          <p className="price">$ 1400</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Black} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Tequeños de queso y panceta al detal</h1>
+          <p>Congelados</p>
+          <p className="price">$ 2500</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Black} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Tequeños de salchicha al detal</h1>
+          <p>Congelados</p>
+          <p className="price">$ 1400</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Salsa} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Cuatro (4) tequeños queso fritos mas salsa de ajo</h1>
+          <p>Fritos</p>
+          <p className="price">$ 800</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Salsa} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Seis (6) tequeños queso fritos mas salsa de ajo</h1>
+          <p>Fritos</p>
           <p className="price">$ 1200</p>
         </div>
       </div>
@@ -51,26 +103,13 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
       <div className="producto">
         <>
           <div className="producto_img">
-            <img src={Salsa} alt={title} />
+            <img src={Monton} alt={title} />
           </div>
         </>
         <div className="producto__footer">
-          <h1>Cuatro (4) tequeños fritos mas salsa de ajo</h1>
+          <h1>Doce (12) tequeños queso fritos mas salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 700</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={Salsa} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Seis (6) tequeños fritos mas salsa de ajo</h1>
-          <p>Fritos</p>
-          <p className="price">$ 1000</p>
+          <p className="price">$ 2000</p>
         </div>
       </div>
 
@@ -81,22 +120,9 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           </div>
         </>
         <div className="producto__footer">
-          <h1>Doce (12) tequeños fritos mas salsa de ajo</h1>
+          <h1>Cincuenta (50) tequeños queso fritos mas (4) salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 1900</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={Monton} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Cincuenta (50) tequeños fritos mas (4) salsa de ajo</h1>
-          <p>Fritos</p>
-          <p className="price">$ 7500</p>
+          <p className="price">$ 8000</p>
         </div>
       </div>
 
@@ -108,9 +134,24 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         </>
         <div className="producto__footer">
           <h1>Cinco (5) tequeños queso y panceta fritos mas salsa de ajo</h1>
-          <p className="price">$ 1500</p>
+          <p className="price">$ 1800</p>
           <h1>Diez (10) tequeños queso y panceta fritos mas salsa de ajo</h1>
-          <p className="price">$ 3000</p>
+          <p className="price">$ 3600</p>
+          <p>Fritos</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={Tequechito} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Seis (6) tequeños salchicha fritos mas salsa de ajo</h1>
+          <p className="price">$ 1200</p>
+          <h1>Diez (12) tequeños queso y panceta fritos mas salsa de ajo</h1>
+          <p className="price">$ 2000</p>
           <p>Fritos</p>
         </div>
       </div>
@@ -125,45 +166,6 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
           <h1>Golfao</h1>
           <p>Postre</p>
           <p className="price">$ 450</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={PastelitosPack} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Pastelitos de queso pack de 2 unds</h1>
-          <p>Congelados</p>
-          <p className="price">$ 400</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={PastelitosPack} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Pastelitos de carne pack de 2 unds</h1>
-          <p>Congelados</p>
-          <p className="price">$ 500</p>
-        </div>
-      </div>
-
-      <div className="producto">
-        <>
-          <div className="producto_img">
-            <img src={PastelitosPack} alt={title} />
-          </div>
-        </>
-        <div className="producto__footer">
-          <h1>Pastelitos de jamon y queso pack de 2 unds</h1>
-          <p>Congelados</p>
-          <p className="price">$ 500</p>
         </div>
       </div>
 
@@ -189,9 +191,8 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Chicha</h1>
           <p>Bebidas</p>
-          <p className="price">$ 450 vaso 300 cc</p>
-          <p className="price">$ 500 vaso 330 cc</p>
-          <p className="price">$ 550 vaso 300 cc con tapa p/llevar</p>
+          <p className="price">$ 500 vaso 300 cc</p>
+          <p className="price">$ 600 vaso 300 cc con tapa p/llevar</p>
         </div>
       </div>
 
@@ -256,7 +257,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Rekolita</h1>
           <p>Bebidas</p>
-          <p className="price">$ 450</p>
+          <p className="price">$ 500</p>
         </div>
       </div>
 
@@ -288,3 +289,47 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
     </div>
   );
 };
+
+// PRODUCTOS DESINCORPORADOS
+
+/* 
+
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={PastelitosPack} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Pastelitos de queso pack de 2 unds</h1>
+          <p>Congelados</p>
+          <p className="price">$ 400</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={PastelitosPack} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Pastelitos de carne pack de 2 unds</h1>
+          <p>Congelados</p>
+          <p className="price">$ 500</p>
+        </div>
+      </div>
+
+      <div className="producto">
+        <>
+          <div className="producto_img">
+            <img src={PastelitosPack} alt={title} />
+          </div>
+        </>
+        <div className="producto__footer">
+          <h1>Pastelitos de jamon y queso pack de 2 unds</h1>
+          <p>Congelados</p>
+          <p className="price">$ 500</p>
+        </div>
+      </div> */
