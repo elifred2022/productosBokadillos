@@ -150,7 +150,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Seis (6) tequeños salchicha fritos mas salsa de ajo</h1>
           <p className="price">$ 1200</p>
-          <h1>Diez (12) tequeños queso y panceta fritos mas salsa de ajo</h1>
+          <h1>Doce (12) tequeños salchicha fritos mas salsa de ajo</h1>
           <p className="price">$ 2000</p>
           <p>Fritos</p>
         </div>
