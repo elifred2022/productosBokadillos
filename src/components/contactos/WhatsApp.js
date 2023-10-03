@@ -7,8 +7,10 @@ export const WhatsAppButton = () => {
     <div>
       <a
         href="https://wa.me/+5491127003907?text=Hola buen día para todos,  
-        recuerda que atendemos en nuestro local AV ARIETA 2688 LOCAL 9 SAN JUSTO De 13 a 19hrs.
-                
+        recuerda que atendemos en nuestro local AV ARIETA 2688 LOCAL 9 SAN JUSTO Lun a Vie De 14 a 19hrs.
+        
+        Hcemos pasapalos picadas para eventos fines de semana
+         
         Tenemos las zonas de deliverys, zona oeste; Ramos Mejia, San Justo, Haedo, Moron y Castelar.
 
         pedidos al mayor sin costo, a todas las zonas CABA y GBA
