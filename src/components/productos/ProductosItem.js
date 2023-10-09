@@ -31,7 +31,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños de queso al Mayor a partir de 15 docenas</h1>
           <p>Congelados</p>
-          <p className="price">$ 1200</p>
+          <p className="price">$ 1300</p>
         </div>
       </div>
 
@@ -44,7 +44,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños de queso al detal</h1>
           <p>Congelados</p>
-          <p className="price">$ 1400</p>
+          <p className="price">$ 1500</p>
         </div>
       </div>
 
@@ -70,7 +70,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños de salchicha al detal</h1>
           <p>Congelados</p>
-          <p className="price">$ 1400</p>
+          <p className="price">$ 1500</p>
         </div>
       </div>
 
@@ -83,7 +83,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Cuatro (4) tequeños queso fritos mas salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 800</p>
+          <p className="price">$ 1000</p>
         </div>
       </div>
 
@@ -96,7 +96,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Seis (6) tequeños queso fritos mas salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 1200</p>
+          <p className="price">$ 1400</p>
         </div>
       </div>
 
@@ -109,7 +109,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Doce (12) tequeños queso fritos mas salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 2000</p>
+          <p className="price">$ 2400</p>
         </div>
       </div>
 
@@ -122,7 +122,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Cincuenta (50) tequeños queso fritos mas (4) salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 8000</p>
+          <p className="price">$ 9000</p>
         </div>
       </div>
 
@@ -149,9 +149,9 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         </>
         <div className="producto__footer">
           <h1>Seis (6) tequeños salchicha fritos mas salsa de ajo</h1>
-          <p className="price">$ 1200</p>
+          <p className="price">$ 1400</p>
           <h1>Doce (12) tequeños salchicha fritos mas salsa de ajo</h1>
-          <p className="price">$ 2000</p>
+          <p className="price">$ 2400</p>
           <p>Fritos</p>
         </div>
       </div>
@@ -165,7 +165,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Golfao</h1>
           <p>Postre</p>
-          <p className="price">$ 450</p>
+          <p className="price">$ 500</p>
         </div>
       </div>
 
@@ -178,7 +178,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Chicha envase 1 litro con canela y leche condensada</h1>
           <p>envio sin cargo zonas aledañas San Justo y Ramos Mejia</p>
-          <p className="price">$ 1600 tapa p/llevar</p>
+          <p className="price">$ 2000 tapa p/llevar</p>
         </div>
       </div>
 
@@ -191,8 +191,8 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Chicha</h1>
           <p>Bebidas</p>
-          <p className="price">$ 500 vaso 300 cc</p>
-          <p className="price">$ 600 vaso 300 cc con tapa p/llevar</p>
+          <p className="price">$ 700 vaso 300 cc</p>
+          <p className="price">$ 1000 vaso 300 cc con tapa p/llevar</p>
         </div>
       </div>
 
@@ -244,7 +244,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Malta lata</h1>
           <p>Bebidas</p>
-          <p className="price">$ 500</p>
+          <p className="price">$ 600</p>
         </div>
       </div>
 
@@ -257,7 +257,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Rekolita</h1>
           <p>Bebidas</p>
-          <p className="price">$ 500</p>
+          <p className="price">$ 600</p>
         </div>
       </div>
 
@@ -270,7 +270,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Cocacola sabor original 354 ml</h1>
           <p>Bebidas</p>
-          <p className="price">$ 400</p>
+          <p className="price">$ 450</p>
         </div>
       </div>
 
