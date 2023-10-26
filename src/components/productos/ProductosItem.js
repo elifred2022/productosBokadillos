@@ -31,7 +31,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños de queso al Mayor a partir de 15 docenas</h1>
           <p>Congelados</p>
-          <p className="price">$ 1300</p>
+          <p className="price">$ 1400</p>
         </div>
       </div>
 
@@ -44,7 +44,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños de queso al detal</h1>
           <p>Congelados</p>
-          <p className="price">$ 1500</p>
+          <p className="price">$ 1600</p>
         </div>
       </div>
 
@@ -70,7 +70,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Tequeños de salchicha al detal</h1>
           <p>Congelados</p>
-          <p className="price">$ 1500</p>
+          <p className="price">$ 1600</p>
         </div>
       </div>
 
@@ -83,7 +83,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Cuatro (4) tequeños queso fritos mas salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 1000</p>
+          <p className="price">$ 1150</p>
         </div>
       </div>
 
@@ -96,7 +96,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Seis (6) tequeños queso fritos mas salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 1400</p>
+          <p className="price">$ 1600</p>
         </div>
       </div>
 
@@ -109,7 +109,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Doce (12) tequeños queso fritos mas salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 2400</p>
+          <p className="price">$ 2600</p>
         </div>
       </div>
 
@@ -122,7 +122,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Cincuenta (50) tequeños queso fritos mas (4) salsa de ajo</h1>
           <p>Fritos</p>
-          <p className="price">$ 9000</p>
+          <p className="price">$ 10000</p>
         </div>
       </div>
 
@@ -134,9 +134,9 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         </>
         <div className="producto__footer">
           <h1>Cinco (5) tequeños queso y panceta fritos mas salsa de ajo</h1>
-          <p className="price">$ 1800</p>
+          <p className="price">$ 2000</p>
           <h1>Diez (10) tequeños queso y panceta fritos mas salsa de ajo</h1>
-          <p className="price">$ 3600</p>
+          <p className="price">$ 4000</p>
           <p>Fritos</p>
         </div>
       </div>
@@ -149,9 +149,9 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         </>
         <div className="producto__footer">
           <h1>Seis (6) tequeños salchicha fritos mas salsa de ajo</h1>
-          <p className="price">$ 1400</p>
+          <p className="price">$ 1600</p>
           <h1>Doce (12) tequeños salchicha fritos mas salsa de ajo</h1>
-          <p className="price">$ 2400</p>
+          <p className="price">$ 2600</p>
           <p>Fritos</p>
         </div>
       </div>
@@ -205,7 +205,7 @@ export const ProductoItem = ({ id, title, price, image, category }) => {
         <div className="producto__footer">
           <h1>Queso llanero semi duro</h1>
           <p>Alimentos</p>
-          <p className="price">$ 2900 x kg</p>
+          <p className="price">$ 3000 x kg</p>
         </div>
       </div>
 
